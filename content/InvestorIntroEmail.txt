@@ -1,0 +1,15 @@
+Subject: Quick intro — PropIntel (AI underwriting for real estate investors)
+
+Hi <Name>,
+
+I’m building PropIntel — an AI-native underwriting assistant that instantly scores properties (as-is value, ARV, rent, ROI), flags motivated sellers, and exports an investor-ready deal sheet in one click.
+
+Why now? I’m a real estate investor and kept hitting the same walls: hours lost underwriting, fragmented data, unreliable rent comps, and guessing at motivated sellers. PropIntel automates those headaches.
+
+We’re opening early access and piloting in 1–2 metros. I’d value your take, and if it’s interesting, I can send a 10-slide deck and quick demo.
+
+Landing page: <your domain>
+Deck & 1-pager: attached
+
+Thanks for your time,
+<Your Name>

@@ -1,0 +1,2 @@
+## Founders' Note (Website Copy)
+As an active real estate investor, I kept hitting the same walls: wasting hours underwriting deals with scattered data, guessing at true property condition from photos, chasing unreliable rent estimates, and struggling to identify genuinely motivated sellers. PropIntel is the tool I wish I had years ago — a fast, trustworthy underwriting assistant that brings the most important answers together in one place.
